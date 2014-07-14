@@ -18,7 +18,7 @@ class LoginOppsu:
     def Login(self):
         login_url = 'http://www.oppsu.cn/login.php?nowtime=1397524426343&verify=afaa6aa0'
         login_post = {'pwuser' : 'bsbforever',
-                     'pwpwd' : '296701298a',
+                     'pwpwd' : '123456',
                     'jumpurl':'http://www.oppsu.cn/index.php',
                     'step':'2',
                     'ajax':'1',
